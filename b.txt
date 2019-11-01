@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bbbsadsasaasdasd
 asdasd
+=======
+bbbsadsasaasdasdasdasdasd
+>>>>>>> 3273937650b67da078c7dc5ca6b642645495ae87
